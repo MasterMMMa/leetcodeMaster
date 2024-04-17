@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Arrary">
+      <UniqueIdentifier>{3894c34e-00c1-49ee-8b6f-5d71e0fcd6d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Greedy algorithm">
+      <UniqueIdentifier>{a5d3c5e1-5e8e-459a-b3b1-2fc2a250ca3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\dynamic programming">
+      <UniqueIdentifier>{a3782fb4-ea3f-4193-9ef1-79c92c11f4d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\graph">
+      <UniqueIdentifier>{0b4ab797-13f2-4789-bff7-8f96b86b3934}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\string">
+      <UniqueIdentifier>{dc40b3ae-5651-422e-b959-6b866dcc5304}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\hush table">
+      <UniqueIdentifier>{2732ebde-baf8-463b-ac93-768a3c2e125a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="leetcode_60days">
+      <UniqueIdentifier>{ce8e2b18-3b90-4621-b757-2707b18aae83}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="leet_704.cpp">
+      <Filter>Source Files\Arrary</Filter>
+    </ClCompile>
+    <ClCompile Include="leet_27.cpp">
+      <Filter>Source Files\Arrary</Filter>
+    </ClCompile>
+    <ClCompile Include="leet_977.cpp">
+      <Filter>Source Files\Arrary</Filter>
+    </ClCompile>
+    <ClCompile Include="leet_455.cpp">
+      <Filter>Source Files\Greedy algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="500.cpp">
+      <Filter>Source Files\dynamic programming</Filter>
+    </ClCompile>
+    <ClCompile Include="746.cpp">
+      <Filter>Source Files\dynamic programming</Filter>
+    </ClCompile>
+    <ClCompile Include="416.cpp">
+      <Filter>Source Files\dynamic programming</Filter>
+    </ClCompile>
+    <ClCompile Include="leet_695.cpp">
+      <Filter>Source Files\graph</Filter>
+    </ClCompile>
+    <ClCompile Include="1020.cpp">
+      <Filter>Source Files\graph</Filter>
+    </ClCompile>
+    <ClCompile Include="string.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="leet_344.cpp">
+      <Filter>Source Files\string</Filter>
+    </ClCompile>
+    <ClCompile Include="leet_541.cpp">
+      <Filter>Source Files\string</Filter>
+    </ClCompile>
+    <ClCompile Include="leet_151.cpp">
+      <Filter>Source Files\string</Filter>
+    </ClCompile>
+    <ClCompile Include="242.cpp">
+      <Filter>Source Files\hush table</Filter>
+    </ClCompile>
+    <ClCompile Include="leet_1002.cpp">
+      <Filter>Source Files\hush table</Filter>
+    </ClCompile>
+    <ClCompile Include="leet 349.cpp">
+      <Filter>Source Files\hush table</Filter>
+    </ClCompile>
+    <ClCompile Include="leet202.cpp">
+      <Filter>Source Files\hush table</Filter>
+    </ClCompile>
+    <ClCompile Include="leet_01.cpp">
+      <Filter>Source Files\hush table</Filter>
+    </ClCompile>
+    <ClCompile Include="454.cpp">
+      <Filter>Source Files\hush table</Filter>
+    </ClCompile>
+    <ClCompile Include="leet_383.cpp">
+      <Filter>Source Files\hush table</Filter>
+    </ClCompile>
+    <ClCompile Include="leet_15.cpp">
+      <Filter>Source Files\hush table</Filter>
+    </ClCompile>
+    <ClCompile Include="day1_704_recursion.cpp">
+      <Filter>leetcode_60days</Filter>
+    </ClCompile>
+    <ClCompile Include="day1_704_while.cpp">
+      <Filter>leetcode_60days</Filter>
+    </ClCompile>
+    <ClCompile Include="day1_27.cpp">
+      <Filter>leetcode_60days</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
