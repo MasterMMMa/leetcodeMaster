@@ -132,10 +132,16 @@
     <ClCompile Include="416.cpp" />
     <ClCompile Include="454.cpp" />
     <ClCompile Include="500.cpp" />
+    <ClCompile Include="day3_206.cpp" />
+    <ClCompile Include="day3_707.cpp" />
     <ClCompile Include="746.cpp" />
     <ClCompile Include="day1_27.cpp" />
     <ClCompile Include="day1_704_recursion.cpp" />
     <ClCompile Include="day1_704_while.cpp" />
+    <ClCompile Include="day2_209.cpp" />
+    <ClCompile Include="day2_59.cpp" />
+    <ClCompile Include="day2_977.cpp" />
+    <ClCompile Include="day3_207.cpp" />
     <ClCompile Include="leet 349.cpp" />
     <ClCompile Include="leet202.cpp" />
     <ClCompile Include="leet_01.cpp" />

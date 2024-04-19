@@ -108,5 +108,23 @@
     <ClCompile Include="day1_27.cpp">
       <Filter>leetcode_60days</Filter>
     </ClCompile>
+    <ClCompile Include="day2_977.cpp">
+      <Filter>leetcode_60days</Filter>
+    </ClCompile>
+    <ClCompile Include="day2_209.cpp">
+      <Filter>leetcode_60days</Filter>
+    </ClCompile>
+    <ClCompile Include="day2_59.cpp">
+      <Filter>leetcode_60days</Filter>
+    </ClCompile>
+    <ClCompile Include="day3_207.cpp">
+      <Filter>leetcode_60days</Filter>
+    </ClCompile>
+    <ClCompile Include="day3_707.cpp">
+      <Filter>leetcode_60days</Filter>
+    </ClCompile>
+    <ClCompile Include="day3_206.cpp">
+      <Filter>leetcode_60days</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
