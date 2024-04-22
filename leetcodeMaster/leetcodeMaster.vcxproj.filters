@@ -117,13 +117,37 @@
     <ClCompile Include="day2_59.cpp">
       <Filter>leetcode_60days</Filter>
     </ClCompile>
-    <ClCompile Include="day3_207.cpp">
+    <ClCompile Include="day3_203.cpp">
       <Filter>leetcode_60days</Filter>
     </ClCompile>
     <ClCompile Include="day3_707.cpp">
       <Filter>leetcode_60days</Filter>
     </ClCompile>
     <ClCompile Include="day3_206.cpp">
+      <Filter>leetcode_60days</Filter>
+    </ClCompile>
+    <ClCompile Include="day4_24.cpp">
+      <Filter>leetcode_60days</Filter>
+    </ClCompile>
+    <ClCompile Include="day4_19.cpp">
+      <Filter>leetcode_60days</Filter>
+    </ClCompile>
+    <ClCompile Include="day4_142.cpp">
+      <Filter>leetcode_60days</Filter>
+    </ClCompile>
+    <ClCompile Include="day6_242.cpp">
+      <Filter>leetcode_60days</Filter>
+    </ClCompile>
+    <ClCompile Include="day6_349.cpp">
+      <Filter>leetcode_60days</Filter>
+    </ClCompile>
+    <ClCompile Include="day5_chilling.cpp">
+      <Filter>leetcode_60days</Filter>
+    </ClCompile>
+    <ClCompile Include="day6_202.cpp">
+      <Filter>leetcode_60days</Filter>
+    </ClCompile>
+    <ClCompile Include="day06_1.cpp">
       <Filter>leetcode_60days</Filter>
     </ClCompile>
   </ItemGroup>
